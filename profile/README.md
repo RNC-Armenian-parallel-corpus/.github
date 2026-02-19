@@ -1,6 +1,6 @@
 # Проект по пополнению Армянского параллельного корпуса НКРЯ
 
-Цель проекта - пополнить и обновить [Русско-армянский параллельный корпус НКРЯ](https://ruscorpora.ru/results?search=CoQBEmQKYgoUCgtsYW5nX3NlYXJjaBIFCgNydXMSSgoJCgNsZXgSAgoACgoKBGZvcm0SAgoACgsKBWdyYW1tEgIKAAoJCgNzZW0SAgoACgwKBnRyYW5zbBICCgAKCwoFZmxhZ3MSAgoAKhAKCAgAEAoYMiAKIABABXgBMgcIBRIDaHllOgEB).
+Цель проекта – пополнить и обновить [Русско-армянский параллельный корпус НКРЯ](https://ruscorpora.ru/results?search=CoQBEmQKYgoUCgtsYW5nX3NlYXJjaBIFCgNydXMSSgoJCgNsZXgSAgoACgoKBGZvcm0SAgoACgsKBWdyYW1tEgIKAAoJCgNzZW0SAgoACgwKBnRyYW5zbBICCgAKCwoFZmxhZ3MSAgoAKhAKCAgAEAoYMiAKIABABXgBMgcIBRIDaHllOgEB).
 
 На данный момент (июнь 2025г.) корпус включает 28 текстов, или 1.5 млн токенов. Для пополнения было собрано и обработано более 1500 новых пар параллельных текстов. 
 
@@ -9,4 +9,5 @@
 Мы команда копьютерных лингвистов из НИУ ВШЭ (г.Москва), связанных с [магистратурой Компьютерная лингвистика](https://www.hse.ru/ma/ling/).
 
 Мы собираемся опубликовать статью с описанием процесса создания корпуса и примером его использования (ссылка появится, когда статья будет опубликована).
+
 
